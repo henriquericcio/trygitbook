@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Page 2](page-2.md)
+* [Everything that have a begin have an end](README.md)
+* [When the world falls down](when-the-world-falls-down.md)
